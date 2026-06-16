@@ -1,0 +1,42 @@
+    1. Explain public static void main(String [] args) in java
+    2. What is the difference between == and .equals() in Java? Give an example where == fails for Strings.
+    3. Explain the concept of method overriding vs method overloading with rules?
+    4. What is the difference between final, finally, and finalize()?
+    5. Explain this and super keywords with examples?
+    6. What is the difference between ArrayList and LinkedList?
+Coding:
+    1. Write a program to find the largest and smallest number in an array without using any built in functions
+	Input: {5,2,8,1,9,3,7}
+	Output: Largest Number: 9
+		Smallest Number: 1
+    2. Write a program to reverse each word in string while keeping the words in their original positions without using built in reverse methods
+	Input: automation testing
+	output: noitamotua gnitset
+    3. Write a program to find and print duplicate characters in a string along with their count.
+	Input: automation
+	output: a: 2
+		t:  2
+		o: 2
+
+Selenium and Automation Framework
+    1. How do you launch chrome browser using selenium webdriver? Write the code
+    2. What is the difference between driver.close() and driver.quit()?
+    3. Write the xpath to find the element in “https://sauce-demo.myshopify.com/”?
+    4. What are the difference between findelement() and findelements() methods?
+    5. How do you handle StaleElementReferenceException in your framework?
+    6. Explain explicit wait vs implicit wait vs fluent wait — which do you prefer and why?
+    7. How do you handle multiple browser windows/tabs using WindowHandle?
+    8. What is the difference between getText() and getAttribute("value") — when does getText() return empty?
+    9. Explain your Page Object Model structure — how do you organize packages?
+    10. What are the TestNG annotations and explain important annotation used in project?
+    11. What is the role of testng.xml — how do you run a specific group of tests from it?
+    12. How do you generate test reports in your current framework — ExtentReports, or built-in TestNG report?
+
+JS
+    1. What are the differences between var, let, and const?
+    2. Explain the difference between == and === with examples.
+    3. Explain async/await and Promises. Why do we use them in automation?
+    4. What is the difference between null and undefined?
+    5. Explain Arrow Functions and when to use them.
+    6. What are closures? Give a practical example.
+    7. How do you handle errors in JavaScript? Write a try-catch example.
