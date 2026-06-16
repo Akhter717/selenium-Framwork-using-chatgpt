@@ -1,0 +1,63 @@
+Beginner Level Java Programs
+Reverse a String
+Write a program to reverse a given string without using any built-in reverse function.
+Check Palindrome
+Write a program to check whether a given string or number is a palindrome.
+Find Duplicate Characters in a String
+Write a program to find and print duplicate characters in a string along with their count.
+Find Duplicate Elements in an Array
+Write a program to find duplicate numbers in an array using HashMap.
+Fibonacci Series
+Print the first N numbers of the Fibonacci series using iteration (not recursion).
+Factorial of a Number
+Write a program to calculate the factorial of a number using both recursive and iterative methods.
+Swap Two Numbers
+Swap two numbers without using a third variable.
+Find Maximum and Minimum in an Array
+Write a program to find the largest and smallest number in an array.
+Remove Duplicates from an Array
+Remove duplicate elements from a sorted or unsorted array.
+Count Vowels and Consonants
+Write a program to count the number of vowels and consonants in a given string.
+Intermediate Level Java Programs
+Anagram Check
+Write a program to check if two strings are anagrams of each other.
+Reverse Words in a Sentence
+Reverse the order of words in a sentence (e.g., "Hello World" → "World Hello").
+Find Second Largest Number in Array
+Write a program to find the second largest element in an array.
+Implement a Simple Calculator
+Create a menu-driven calculator using switch case for addition, subtraction, multiplication, and division.
+String Compression
+Implement Run-Length Encoding (e.g., "aaabbcc" → "a3b2c2").
+Matrix Multiplication
+Write a program to multiply two matrices.
+Find Common Elements Between Two Arrays
+Find and print common elements present in two arrays (use HashSet for efficiency).
+Sort an Array without using Built-in Methods
+Implement Bubble Sort, Selection Sort, or Insertion Sort.
+Generate Prime Numbers
+Write a program to print all prime numbers up to a given number N.
+Custom Exception Handling
+Create a custom exception and demonstrate its usage in a program (e.g., Age validation).
+Read and Write to a Text File
+Write a program to read content from a file and write it to another file.
+Implement a Stack using Array
+Write your own Stack class with push, pop, peek, and isEmpty methods.
+Find Missing Number
+Given an array containing n numbers from 1 to n+1 with one number missing, find the missing number.
+Two Sum Problem
+Given an array of integers and a target, return indices of two numbers that add up to the target.
+Remove Special Characters from String
+Write a program to remove all special characters and numbers from a string, keeping only alphabets.
+Automation-Specific Java Programs (Recommended)
+Read Data from Excel (Very Important)
+Write a program to read test data from an Excel file using Apache POI.
+Write Test Results to Excel
+Append test execution results (Pass/Fail) into an Excel sheet.
+JSON Parsing
+Parse a JSON string and extract specific values (using Gson or Jackson).
+Take Screenshot
+Write a utility method to capture screenshot using Selenium WebDriver.
+Explicit Wait Utility
+Create a reusable method for explicit wait for element visibility, clickability, etc.
