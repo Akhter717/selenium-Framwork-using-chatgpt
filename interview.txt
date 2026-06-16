@@ -1,0 +1,35 @@
+Core Java
+What is the difference between == and .equals() in Java? Give an example where == fails for Strings.
+What is the difference between ArrayList and LinkedList? When would you prefer one over the other?
+Explain the concept of method overriding vs method overloading with rules.
+What is the difference between HashMap and LinkedHashMap and TreeMap?
+What happens internally when you call HashMap.put() with a duplicate key?
+What is the significance of hashCode() and equals() contract in Java?
+Explain static keyword — static variable, static method, static block. Execution order?
+What is the difference between final, finally, and finalize()?
+What are checked vs unchecked exceptions? Give examples from your automation work.
+Explain try-with-resources and when you would use it in automation.
+Java 8
+What is a functional interface? Name 4 built-in functional interfaces with their method signatures.
+Explain the difference between map() and flatMap() in Streams.
+What is the difference between findFirst() and findAny() in parallel streams?
+How does Optional work? Why was it introduced? Show a real use case.
+What is the difference between Predicate, Function, Consumer, and Supplier?
+Collections & DSA
+How would you remove duplicates from a List while preserving insertion order?
+Given a String, find the first non-repeating character. What data structure would you use?
+How do you reverse a LinkedList without using built-in methods?
+What is the difference between Iterator and ListIterator?
+When would you use PriorityQueue over a regular Queue?
+Selenium & Automation
+What is the difference between driver.close() and driver.quit()?
+How do you handle StaleElementReferenceException in your framework?
+Explain explicit wait vs implicit wait vs fluent wait — which do you prefer and why?
+How do you handle multiple browser windows/tabs using WindowHandle?
+What is the difference between getText() and getAttribute("value") — when does getText() return empty?
+Framework & Design
+Explain your Page Object Model structure — how do you organize packages?
+How do you implement a BaseTest class in TestNG? What goes inside it?
+How do you pass different environment URLs (dev/staging/prod) without changing code?
+What is the role of testng.xml — how do you run a specific group of tests from it?
+How do you generate test reports in your current framework — Allure, ExtentReports, or built-in TestNG
