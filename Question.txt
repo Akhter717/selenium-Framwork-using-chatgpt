@@ -1,0 +1,66 @@
+Java
+1. Explain public static void main(String [] args) in java
+2. Is Java a pure object oriented language or not? If not why?
+3. What is the difference between == and .equals() in Java? Give an example where == fails 
+for Strings.
+4. Explain the concept of method overriding vs method overloading with rules? Where do you 
+use in automation framework?
+5. What is the difference between final, finally, and finalize()?
+6. Explain this and super keywords with examples?
+7. What is the purpose of Throw and Throws keyword in java?
+8. What is constructor in java and explain its type?
+9. What is the difference between Array and ArrayList?
+
+Coding:
+1. Write a program to remove duplicate elements from an array
+Input: [8,5,6,1,8,9,6,5]
+Output: [1, 5, 6, 8, 9]
+2. Write a Java Program to remove white spaces from a given string
+Input: Bebo Technologies Pvt. Ltd
+Output: BeboTechnologiesPvt.Ltd
+3. Write a program to find the largest and smallest number in an array without using any built 
+in functions
+Input: {5,2,8,1,9,3,7}
+Output: Largest Number: 9
+Smallest Number: 1
+4. Write a program to reverse each word in string while keeping the words in their original 
+positions without using built in reverse methods
+Input: automation testing
+Output: noitamotua gnitset
+5. Write a program to find the missing number in an array
+Input: [1, 2, 4, 5, 6]
+Output: 3
+6. Write a program to find and print duplicate characters in a string along with their count.
+Input: automation
+Output: a: 2
+t:  2
+o: 2
+
+Selenium and Automation Framework
+1. How do you launch chrome browser using selenium webdriver? Write the code
+2. What is the difference between driver.close() and driver.quit()?
+3. What are the difference between findelement() and findelements() methods? And what it
+return if no matching element is found? 
+4. How to select an option from a dynamic dropdown using Selenium? Write code to select any
+city from list in “https://www.makemytrip.com/’
+5. How do you handle StaleElementReferenceException in your framework?
+6. What are the different types of wait in selenium — which do you prefer and why?
+7. How do you handle multiple browser windows/tabs using WindowHandle?
+8. What is the difference between getText() and getAttribute() ?
+9. Explain your Page Object Model structure?
+10. What are the TestNG annotations and explain important annotation used in project?
+11. What is the role of testng.xml — how do you run a specific group of tests from it?
+12. How would you automate a scenario where you need to verify if a user is scroll down a 
+webpage until the footer section is visible?
+13. How would you automate login functionality for a website?
+14. How do you generate test reports in your current framework — ExtentReports, or built-in 
+TestNG report?
+
+JS
+1. What are the differences between var, let, and const?
+2. Explain the difference between == and === with examples.
+3. Explain async/await and Promises. Why do we use them in automation?
+4. What is the difference between null and undefined?
+5. Explain Arrow Functions and when to use them.
+6. What are closures?
+7. How do you handle errors in JavaScript? Write a try-catch example
