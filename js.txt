@@ -1,0 +1,10 @@
+What are the differences between var, let, and const?
+Explain the difference between == and === with examples.
+What is hoisting in JavaScript?
+Explain async/await and Promises. Why do we use them in automation?
+What is the difference between null and undefined?
+Explain Arrow Functions and when to use them.
+What are closures? Give a practical example.
+How do you handle errors in JavaScript? Write a try-catch example.
+Explain map(), filter(), and reduce() with examples.
+What is event bubbling and event delegation?
